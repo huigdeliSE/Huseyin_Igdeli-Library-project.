@@ -22,7 +22,3 @@ class Library:
         self.Book = book
         self.Member = member
         self.loan = loan
-my_library = Library("hüseyin","Dune",1,2)
-print(my_library.loan)
-print(my_library.Book)
-print(my_library.name)
